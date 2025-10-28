@@ -16,10 +16,7 @@ IRIS_CLASSES = {
     2: "virginica"
 }
 
-print("Cargando el modelo...")
 model = joblib.load('modelo_entrenado.pkl')
-print("¡Modelo cargado!")
-
 
 app = FastAPI(
     title="Mi API de Predicción",
@@ -65,4 +62,5 @@ async def make_predict(input_data: PredictionInput):
 
 
       
+
 
