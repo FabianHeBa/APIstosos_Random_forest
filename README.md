@@ -24,6 +24,7 @@ La API está desplegada y puedes interactuar con ella:
 
 ## 📁 Estructura del Proyecto
 
+```bash
 app/
 ├── main.py
 ├── model/
@@ -31,7 +32,7 @@ app/
 ├── schemas/
 │   └── iris_model.py
 └── requirements.txt
-
+```
 
 ## 💻 Cómo ejecutarlo localmente
 
