@@ -20,7 +20,7 @@ IRIS_CLASSES = {
 model = joblib.load('modelo_entrenado.pkl')
 
 app = FastAPI(
-    title="Mi API de Predicción",
+    title="APIstosos. Modelo de prediccion, conjunto Iris",
     description="Un API simple para demostración con /health y /predict",
     version="1.0.0"
 )
@@ -65,6 +65,7 @@ if __name__ == "__main__":
 
 
       
+
 
 
 
