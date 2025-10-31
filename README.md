@@ -12,17 +12,26 @@ La API está desplegada y puedes interactuar con ella:
 * **Health Check:** `https://apistosos-random-forest-1.onrender.com/health`
 * **Info del Modelo:** `https://apistosos-random-forest-1.onrender.com/info`
 
-## 🛠️ Requerimeintos básicos
+## 🛠️ Requerimientos básicos
 
 * **Python 3**
 * **FastAPI:** Para construir el API.
 * **Uvicorn:** Como servidor ASGI.
 * **Scikit-Learn / Joblib:** Para cargar y usar el modelo `.pkl`.
-* **Render:** Para el despliegue y hosting.
+* **pydantic**
+* **pandas**
+* **numpy**
 
 ## 📁 Estructura del Proyecto
 
-El proyecto está contenido dentro de la carpeta `app/` para mantener la raíz limpia para los archivos de configuración de despliegue.
+app/
+├── main.py
+├── model/
+│   └── random_forest.pkl
+├── schemas/
+│   └── iris_model.py
+└── requirements.txt
+
 
 ## 💻 Cómo ejecutarlo localmente
 
