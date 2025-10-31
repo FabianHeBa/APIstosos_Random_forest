@@ -1,5 +1,3 @@
-# APIstosos Random Forest
-
 # APIstosos Random Forest 🌳
 
 Un API simple construida con **FastAPI** para servir un modelo de predicción de Scikit-Learn (Random Forest) entrenado con el dataset Iris.
