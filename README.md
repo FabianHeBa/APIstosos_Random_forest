@@ -25,13 +25,18 @@ La API está desplegada y puedes interactuar con ella:
 ## 📁 Estructura del Proyecto
 
 ```bash
+Random-forest-api/model/
+model/
+├──rf_custom.py
+├──rf_sklearn.py
 app/
-├── main.py
-├── model/
-│   └── random_forest.pkl
-├── schemas/
-│   └── iris_model.py
-└── requirements.txt
+├──main.py
+├──decisionTree.py
+├──modelo_entrenado.pkl  
+notebooks/
+├──nb_template.ipynb
+README.md
+render.yaml
 ```
 
 ## 💻 Cómo ejecutarlo localmente
