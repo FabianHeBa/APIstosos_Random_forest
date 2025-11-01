@@ -8,8 +8,8 @@ Integrantes equipo APIstosos:
 
 * Fabian Herrera Barrón
 * Mariano Josué Ahuatzi Pichardo
-* Luis Enrique Villalon
-* Alejandro Hiram 
+* Luis Enrique Villalon Pineda
+* Alejandro Iram Ramírez Nava
 
 ## 🚀 API en Vivo (Desplegada en Render)
 
