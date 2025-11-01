@@ -34,6 +34,7 @@ La API está desplegada y puedes interactuar con ella:
 ```bash
 Random-forest-api/model/
 model/
+├──model.pkl
 ├──rf_custom.py
 ├──rf_sklearn.py
 app/
