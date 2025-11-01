@@ -1,8 +1,15 @@
 # APIstosos Random Forest 🌳
 
-Un API simple construida con **FastAPI** para servir un modelo de predicción de Scikit-Learn (Random Forest) entrenado con el dataset Iris.
+Un API simple construida con **FastAPI** para servir un modelo de predicción Random Forest entrenado con el dataset Iris.
 
-Este proyecto fue desarrollado por el equipo **"APIstosos"** y está configurado para despliegue automático en **Render** usando un archivo `render.yaml` (Blueprint).
+Este proyecto fue desarrollado por el equipo **"APIstosos"** y está configurado para despliegue automático en **Render** usando un archivo `render.yaml`.
+
+Integrantes equipo APIstosos:
+
+* Fabian Herrera Barrón
+* Mariano Josué Ahuatzi Pichardo
+* Luis Enrique Villalon
+* Alejandro Hiram 
 
 ## 🚀 API en Vivo (Desplegada en Render)
 
